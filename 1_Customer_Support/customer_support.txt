@@ -1,0 +1,6 @@
+This project was developed using Jupyter Notebook (R and Python)
+
+To run the project just download the dataset from IBM public website and run the .ipynb files
+-> .html files, .R and .py are have the same info and were downloaded from the .ipynb files
+
+
