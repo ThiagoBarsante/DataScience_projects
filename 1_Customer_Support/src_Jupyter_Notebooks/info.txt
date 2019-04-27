@@ -1,1 +1,1 @@
-Jupyter Notebooks files - Environment -> Anaconda3-5.2.0-Linux-x86_64.sh
+Jupyter Notebooks files - Environment: Anaconda3-5.2.0-Linux-x86_64.sh
