@@ -1,1 +1,3 @@
-Html files for quick visualization rather than Jupyter Notebooks (.ipynb files)
+Html files for quick visualization rather than Anaconda Environment - Jupyter Notebooks (.ipynb files)
+
+Just download the files and open it in your local browser
