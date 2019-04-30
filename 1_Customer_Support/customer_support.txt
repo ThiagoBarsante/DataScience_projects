@@ -1,7 +1,0 @@
-This project was developed using Jupyter Notebook (R and Python)
-
-To run the project just download the public dataset from IBM website detailed in the code and run the .ipynb files
-
--> .r and .py files are saved in specific directory just for quick code view
-
-
