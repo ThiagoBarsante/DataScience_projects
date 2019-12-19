@@ -8,6 +8,5 @@ Phase 2 = +EDA + Build 3 machine learning models (GLM, RF and GBM) and choose th
 
 Phase 3 = Deployment options (Batch and Online Prediction)
 
-
 INFO
 Development done with Jupyter Notebook (R + Python), integrated with H2O cluster (CentOS) + Microservices using (CentOS + Docker + python + NGINX)
