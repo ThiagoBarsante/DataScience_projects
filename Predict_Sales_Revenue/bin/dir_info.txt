@@ -1,0 +1,13 @@
+Jupyter Notebooks files - Environment: Anaconda3-5.2.0-Linux-x86_64.sh
+
+** this project will follow the same structure
+
+Development done with Jupyter Notebook (R + Python)
+
+Phase 0 = Business requirement and starting point
+
+Phase 1 = Exploratory data analysis (EDA) + Random Forest Regressor (sklearn) to plot feature importance
+
+Phase 2 = +EDA + XGB to build the model and predict the revenue
+
+Phase 3 = Summary with final analysis and deployment considerations
