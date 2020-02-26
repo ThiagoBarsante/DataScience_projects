@@ -1,0 +1,31 @@
+
+## folder with doc and files
+
+This project was developed using Jupyter Notebook (R and Python)
+
+
+
+To run the project just download the public dataset from IBM website (local /data/) and run the notebooks .ipynb files
+
+
+Resume of code and PDFs are availble in the bin/ directory
+	.r and .py files are saved in specific directory for quick code view (exported from Jupyter)
+
+	
+** Phase 0 : Business requirement - starting point
+
+
+
+** Phase 1 (python code): exploratory data analysis and 1 Machine Learning algorithm - Random Forest Classifier 
+from scikit learn to start the investigation of feature importance
+
+** Phase 2 (R code) we go deep in the feature analysis, get more insights from the data and execute 1 Machine Learning 
+algorithm - XGBoost where we get 80% of accuracy
+
+** In phase 3 we just summarize all the information and provide some deployment guidelines options to achieve the target 
+of decrease churn rate
+
+
+
+-------------
+ INFO : the concept of telco customer churn can be applied to many business services based on customer loyalty
