@@ -1,2 +1,3 @@
 
-## this folder has all files exported from the notebook - R and Python code
+## this folder has 2 files exported from the notebook as an example - R and Python code
+### all code could be exported using Jupyter Notebook
