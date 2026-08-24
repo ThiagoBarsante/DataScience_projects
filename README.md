@@ -1,6 +1,8 @@
 # DataScience_projects
 
-The target with this repo is to show the evolution of business intelligence with advanced analytics and some data science, machine learning projects using the CRISP-DM methodology.
+The goal of this repo is to showcase the evolution from Business Intelligence to Advanced Analytics, including data science and machine learning projects—such as customer churn and marketing campaign analysis—guided by the CRISP-DM methodology.
+
+The repository also explores the evolution of how these solutions are built, comparing **traditional hand-coded approaches with agentic workflows using coding agents** to design, implement, and deliver these solutions.
 
 ### Enterprise Intelligence and Analytics
 
@@ -252,5 +254,5 @@ Where the two agree is what shaped the production decision above:
 
 ---
 
-> **Tooling:** Databricks Data Science Agent · Databricks Genie · Unity Catalog · MLflow · Claude Code · `uv` · Python (pandas, scikit-learn, XGBoost, LightGBM, SHAP, matplotlib, seaborn)
+> **Tooling:** Claude code, ChatGPT - codex, Databricks Data Science Agent · Databricks Genie · Unity Catalog · MLflow · `uv` · Python (pandas, scikit-learn, XGBoost, LightGBM, SHAP, matplotlib, seaborn)
 > **Dataset:** Telco Customer Churn — sample dataset provided by IBM
